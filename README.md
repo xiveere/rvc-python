@@ -1,3 +1,5 @@
+# FORK EDITS
+- Fix omegaconf issue you silly animal
 # RVC Python
 
 Using RVC via console or python scripts
