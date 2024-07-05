@@ -2,7 +2,7 @@ torch>=2.0.0
 torchaudio>=2.0.0
 ffmpeg-python
 soundfile
-omegaconf==2.0.6
+omegaconf
 requests
 pyworld
 torchcrepe
